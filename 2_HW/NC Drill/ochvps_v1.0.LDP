@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\LMTS-IT\Desktop\NEW\OPENSOURCE\2_HW\ochvps_v1.0\Source Documents\PCB\ochvps_v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ochvps_v1.0-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ochvps_v1.0-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

@@ -1,0 +1,53 @@
+########################################################################################################################
+# @project    OCHVPS_v1.0
+# @file       OCHVPS_v1.0_how_to_flash.txt
+# @brief      Author:             MBE
+#             Software version:   v1.00
+#             Created on:         20.03.2024
+#             Last modifications: 20.03.2024
+#
+# OCHVPS © 2021-2024 by MBE <ochvps@proton.me>
+#
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General
+# Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option)
+# any later version.
+#
+# This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied
+# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with this library.  If not, see:
+# <http://www.gnu.org/licenses/>.
+#
+# NO HELP WILL BE GIVEN IF YOU MODIFY THIS CODE !!!
+########################################################################################################################
+
+Materials:
+- OCHVPS_v1.0 board
+- J-Link			(model used: 	J-Link base V11.0)
+- MCUXpresso 			(version used: 	MCUXpresso IDE 11.9.0 2144)
+
+
+------------------------------------------------------------------------------------------------------------------------
+						How to flash 
+
+01. Open MCUXpresso
+
+02. File => New=> Create a new C/C++ project...
+
+03. In SDK Wizard, under "SDK MCUs" and "Target", select "K6x" and "MK60DN256xxx10" and click on "Next"
+
+04. Give a Project name, a project name suffix (not mandatory) and set the location for your project. Then, select: 
+- "MK60DN256VLQ10" under "device Packages"
+- "C++ Project" under "Project Type"
+And click on "Finish
+
+05. Click on the "GUI Flash Tool" icon
+
+06. In the "File to program" edit text, select "JTAG"
+
+07. In the "File to program" edit text, click on File System and choose the "OCHVPS_v1.0.axf file
+
+08. Click on "Run..." button
+
+09. Click on "OK"
