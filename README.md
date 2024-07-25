@@ -4,6 +4,9 @@ This git contains all the files to produce your own octo channel high voltage po
 
 ![HVPS](https://github.com/user-attachments/assets/e8a07ade-94b3-492f-ada1-7293d4fda2d5)
 
+A block diagram of the power suplly can be found below
+![HVPS_block](https://github.com/user-attachments/assets/c46455e4-3e97-492b-b3e9-cd6c03f110b1)
+
 
 More information can be found in the [user's manual](https://github.com/martijnschouten/OCHVPS/blob/v1.0/1_DOC/OCHVPS_V1.0_User_Manual.pdf).
 
