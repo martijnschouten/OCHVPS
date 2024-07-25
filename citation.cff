@@ -6,7 +6,7 @@ authors:
 - family-names: "Herbert"
   given-names: "Shea" 
   orcid:  "https://orcid.org/0000-0003-3527-3036"
-title: "lab-equipment-matlab-drivers"
+title: "Octo-Channel High Voltage Power Supply"
 version: 1.0.0
 doi: 10.5281/zenodo.12820161
 date-released: 2024-03-25
