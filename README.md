@@ -5,6 +5,6 @@ This git contains all the files to produce your own octo channel high voltage po
 ![HVPS](https://github.com/user-attachments/assets/e8a07ade-94b3-492f-ada1-7293d4fda2d5)
 
 
-More information can be found in the user's manual, under /1_DOC/OCHVPS_V1.0_User_Manual.pdf
+More information can be found in the [user's manual](https://github.com/martijnschouten/OCHVPS/blob/v1.0/1_DOC/OCHVPS_V1.0_User_Manual.pdf).
 
 OCHVPS © 2021-2024 by MBE <ochvps@proton.me>
