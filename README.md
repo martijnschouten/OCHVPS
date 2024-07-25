@@ -9,7 +9,7 @@ A block diagram of the power suply can be found below
 
 The source code of the Python GUI can be found in this [github repository](https://github.com/martijnschouten/OCHVPS_SW)
 
-The source code of firmware running on microcontroller inside the board can be found in this [github repository](https://github.com/martijnschouten/OCHVPS-FW)
+The source code of firmware running on microcontroller inside the board can be found in this [github repository](https://github.com/martijnschouten/OCHVPS_FW)
 
 Some more information can be found in the [user's manual](https://github.com/martijnschouten/OCHVPS/blob/v1.0/1_DOC/OCHVPS_V1.0_User_Manual.pdf).
 
