@@ -13,4 +13,6 @@ The source code of firmware running on microcontroller inside the board can be f
 
 Some more information can be found in the [user's manual](https://github.com/martijnschouten/OCHVPS/blob/v1.0/1_DOC/OCHVPS_V1.0_User_Manual.pdf).
 
+If your just interested in the schematic, that can be found [here](https://github.com/martijnschouten/OCHVPS/blob/v1.0/2_HW/PDF/ochvps_v1.0.pdf) 
+
 OCHVPS © 2021-2024 by MBE <ochvps@proton.me>
