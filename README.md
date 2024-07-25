@@ -7,7 +7,8 @@ This git contains all the files to produce your own octo channel high voltage po
 A block diagram of the power suply can be found below
 ![HVPS_block](https://github.com/user-attachments/assets/c46455e4-3e97-492b-b3e9-cd6c03f110b1)
 
-
+The source code of the Python GUI can be found in this [github repository](https://github.com/martijnschouten/OCHVPS_SW)
+The source code of firmware running on microcontroller inside the board can be found in this github repository
 More information can be found in the [user's manual](https://github.com/martijnschouten/OCHVPS/blob/v1.0/1_DOC/OCHVPS_V1.0_User_Manual.pdf).
 
 OCHVPS © 2021-2024 by MBE <ochvps@proton.me>
